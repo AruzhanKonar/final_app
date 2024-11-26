@@ -1,0 +1,13 @@
+export const FETCH_EMPLOYEE_SUCCESS = "FETCH_EMPLOYEE_SUCCESS";
+
+export const SET_EMAIL = "SET_EMAIL";
+export const SET_PASSWORD ="SET_PASSWORD"
+
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_ERROR = "LOGIN_ERROR";
+
+export const DELETE_EMPLOYEE_SUCCESS = "DELETE_EMPLOYEE_SUCCESS";
+
+export const SUCCESS = "SUCCESS" ;
+export const ERROR = "ERROR";
+export const PENDING = "PENDING";
